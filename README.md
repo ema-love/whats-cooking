@@ -184,4 +184,4 @@ In the browser, open `http://52.56.103.54`, search, filter, sort, open a recipe 
 - **Recipe data:** [Spoonacular Food API](https://spoonacular.com/food-api)
 - **Fonts:** [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) and [DM Sans](https://fonts.google.com/specimen/DM+Sans) (Google Fonts)
 - **Servers:** [Nginx](https://nginx.org/) and [HAProxy](https://www.haproxy.org/)
-- **Design, logo and icons:** Erioluwa Mercy Akintayo
+- **Design, logo and icons:** Erioluwa Mercy Akintayo(Ema)
