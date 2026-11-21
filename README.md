@@ -7,7 +7,7 @@ What's Cooking? helps you decide **what to cook with what you already have**. Se
 | | |
 |---|---|
 | **Live site (load balancer)** | http://52.56.103.54 |
-| **Demo video** | ADD_VIDEO_LINK |
+| **Demo video** |(https://drive.google.com/file/d/1MHNPJIAuVf6BwCufmMvi-vF50htThI_-/view?usp=sharing)|
 | **API key** | Provided in the submission comment (never in this repository) |
 | **Login** | None needed: the site has no accounts |
 
